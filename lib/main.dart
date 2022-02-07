@@ -1,7 +1,6 @@
 import 'package:dash/dash_bird.dart';
 import 'package:flutter/material.dart';
 
-const designSize = Size(350, 200);
 
 void main() {
   runApp(const MyApp());
